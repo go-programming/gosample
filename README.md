@@ -8,6 +8,8 @@
 
 [【跟着我们学Golang】基础结构](https://gostack.souyunku.com/2019/04/22/basic-knowledge/)
 
+[【跟着我们学Golang】流程控制](https://gostack.souyunku.com/2019/04/29/if-for-switch-select/)
+
 ## 联系我们
 
 邮箱：gostack@souyunku.com
